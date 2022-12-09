@@ -1,5 +1,5 @@
 # Corde
 
 
-![Corde](logo_trans.png)
+![Corde](logo_whitebg.png)
 
